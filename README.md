@@ -5,8 +5,8 @@ This is my small project using html/css/bootstrap. I will be using this to showc
 ## Technologies Used 
 -HTML
 -CSS
-#Instillation
+## Instillation
 No need to install any software, just open up index.html and run it
-#How To Use
+## How To Use
 Use this template to build your own portfolio
 
