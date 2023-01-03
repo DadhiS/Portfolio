@@ -1,6 +1,6 @@
 ## portfolio
 This is my small project using html/css/bootstrap. I will be using this to showcase my projects. 
-[Live Heroku Deployment](https://portfolio1-dadhi.herokuapp.com/)
+[Live Deployment](https://portfolio.dadhis.repl.co/)
 ## Technologies Used 
 * HTML
 * CSS
